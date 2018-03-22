@@ -1,0 +1,19 @@
+body, div, h1, p {
+margin: 0;
+padding: 0;
+border: 0;
+}
+#container, p, h1 {
+  width: 80%;
+  height: 100%;
+  border: 1px dashed black;
+}
+.green {
+  color: green;
+}
+.red{
+  color: red;
+}
+.purple{
+color: purple;
+}
